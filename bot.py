@@ -59,7 +59,7 @@ class Bot(Client):
         self.LOGGER(__name__).info(f""" \n\n       
                                                   
                                                   
-BOT DEPLOYED BY  @CODEFLIX_BOTS                        
+BOT DEPLOYED BY  @NeonGhost_Networks                        
 
                                           """)
         self.username = usr_bot_me.username
